@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 3D目标检测
-description: 这是一个关于3D目标检测的博客
+title: scri 的技术专栏
+description: 这是一个无聊的博客
 github_username: scri
 
 # Email and twitter are optional:
@@ -34,7 +34,7 @@ titles_from_headings:
   collections: true
 
 highlighter: rouge
-markdown: kramdown 
+markdown: kramdown  
 kramdown:
   math_engine: katex
   input: GFM
